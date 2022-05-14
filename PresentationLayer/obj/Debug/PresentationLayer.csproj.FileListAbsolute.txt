@@ -1,0 +1,10 @@
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\tamon\source\repos\Presentation-Tier\PresentationLayer\obj\Debug\PresentationLayer.pdb

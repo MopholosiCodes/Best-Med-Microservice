@@ -1,7 +1,0 @@
-C:\Users\tamon\source\repos\gradedLab\gradedLab\obj\Debug\gradedLab.csproj.AssemblyReference.cache
-C:\Users\tamon\source\repos\gradedLab\gradedLab\obj\Debug\gradedLab.csproj.CoreCompileInputs.cache
-C:\Users\tamon\source\repos\gradedLab\gradedLab\bin\Debug\gradedLab.exe.config
-C:\Users\tamon\source\repos\gradedLab\gradedLab\bin\Debug\gradedLab.exe
-C:\Users\tamon\source\repos\gradedLab\gradedLab\bin\Debug\gradedLab.pdb
-C:\Users\tamon\source\repos\gradedLab\gradedLab\obj\Debug\gradedLab.exe
-C:\Users\tamon\source\repos\gradedLab\gradedLab\obj\Debug\gradedLab.pdb
