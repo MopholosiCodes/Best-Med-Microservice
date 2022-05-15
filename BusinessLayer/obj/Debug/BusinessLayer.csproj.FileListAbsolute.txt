@@ -1,6 +1,0 @@
-C:\Users\tamon\source\repos\Presentation-Tier\BusinessLayer\bin\Debug\BusinessLayer.dll
-C:\Users\tamon\source\repos\Presentation-Tier\BusinessLayer\bin\Debug\BusinessLayer.pdb
-C:\Users\tamon\source\repos\Presentation-Tier\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\tamon\source\repos\Presentation-Tier\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\tamon\source\repos\Presentation-Tier\BusinessLayer\obj\Debug\BusinessLayer.dll
-C:\Users\tamon\source\repos\Presentation-Tier\BusinessLayer\obj\Debug\BusinessLayer.pdb
